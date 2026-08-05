@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1470-shuffle-the-array) |
 ## Math
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
