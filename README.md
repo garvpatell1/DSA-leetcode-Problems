@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
