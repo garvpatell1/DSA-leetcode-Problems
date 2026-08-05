@@ -4,9 +4,38 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1470-shuffle-the-array) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0007-reverse-integer) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
