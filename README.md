@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
