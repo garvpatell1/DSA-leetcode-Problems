@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Divide and Conquer
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
