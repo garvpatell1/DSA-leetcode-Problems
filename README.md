@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1470-shuffle-the-array) |
 ## Math
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0050-powx-n) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
