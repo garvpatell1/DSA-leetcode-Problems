@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
 | ------- |
@@ -114,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
