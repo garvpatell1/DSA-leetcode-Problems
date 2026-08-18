@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1552-magnetic-force-between-two-balls) |
 ## Heap (Priority Queue)
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## String
 |  |
 | ------- |
