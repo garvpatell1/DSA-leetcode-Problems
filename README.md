@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1470-shuffle-the-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1539-kth-missing-positive-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0136-single-number) |
+| [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 ## Bubble Sort
 |  |
 | ------- |
