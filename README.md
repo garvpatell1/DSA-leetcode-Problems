@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
@@ -190,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
