@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
+| [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
 ## String
 |  |
 | ------- |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
 <!---LeetCode Topics End-->
