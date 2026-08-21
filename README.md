@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
 | [1552-magnetic-force-between-two-balls](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 ## Prefix Sum
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0020-valid-parentheses) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
