@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [0962-maximum-width-ramp](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0962-maximum-width-ramp) |
+| [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
