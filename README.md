@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Divide and Conquer
 |  |
 | ------- |
