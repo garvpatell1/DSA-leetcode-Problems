@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1051-height-checker) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
