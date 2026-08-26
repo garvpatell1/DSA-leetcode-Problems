@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1927-sum-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
