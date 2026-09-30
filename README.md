@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [1927-sum-game](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Greedy
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/1927-sum-game) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/garvpatell1/DSA-leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
